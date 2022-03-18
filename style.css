@@ -1,0 +1,33 @@
+/* Nav bar*/
+.topnav {
+    background-color: rgb(2, 36, 75);
+    overflow: hidden; 
+    }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: #f7f7f7;
+    padding: 10px 16px;
+    text-decoration: blue;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .card {
+      padding: 189px 80px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: xx-large;
+      color: blue;
+      text-align: justify;
+      
+  }
+
+
